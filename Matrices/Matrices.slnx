@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsolaUI/ConsolaUI.csproj" />
+  <Project Path="Matriz/Matriz.csproj" />
+</Solution>

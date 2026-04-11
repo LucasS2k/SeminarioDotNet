@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Automotores/Automotores.csproj" />
+  <Project Path="ConsolaUI/ConsolaUI.csproj" />
+  <Project Path="Figuras/Figuras.csproj" />
+</Solution>

@@ -1,0 +1,12 @@
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\Horario\Hora\bin\Debug\net10.0\Hora.deps.json
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\Horario\Hora\bin\Debug\net10.0\Hora.dll
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\Horario\Hora\bin\Debug\net10.0\Hora.pdb
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\Horario\Hora\obj\Debug\net10.0\Hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\Horario\Hora\obj\Debug\net10.0\Hora.AssemblyInfoInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\Horario\Hora\obj\Debug\net10.0\Hora.AssemblyInfo.cs
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\Horario\Hora\obj\Debug\net10.0\Hora.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\Horario\Hora\obj\Debug\net10.0\Hora.sourcelink.json
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\Horario\Hora\obj\Debug\net10.0\Hora.dll
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\Horario\Hora\obj\Debug\net10.0\refint\Hora.dll
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\Horario\Hora\obj\Debug\net10.0\Hora.pdb
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\Horario\Hora\obj\Debug\net10.0\ref\Hora.dll

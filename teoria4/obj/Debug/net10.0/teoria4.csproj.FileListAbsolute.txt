@@ -1,0 +1,15 @@
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\teoria4\bin\Debug\net10.0\teoria4.exe
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\teoria4\bin\Debug\net10.0\teoria4.deps.json
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\teoria4\bin\Debug\net10.0\teoria4.runtimeconfig.json
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\teoria4\bin\Debug\net10.0\teoria4.dll
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\teoria4\bin\Debug\net10.0\teoria4.pdb
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\teoria4\obj\Debug\net10.0\teoria4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\teoria4\obj\Debug\net10.0\teoria4.AssemblyInfoInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\teoria4\obj\Debug\net10.0\teoria4.AssemblyInfo.cs
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\teoria4\obj\Debug\net10.0\teoria4.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\teoria4\obj\Debug\net10.0\teoria4.sourcelink.json
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\teoria4\obj\Debug\net10.0\teoria4.dll
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\teoria4\obj\Debug\net10.0\refint\teoria4.dll
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\teoria4\obj\Debug\net10.0\teoria4.pdb
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\teoria4\obj\Debug\net10.0\teoria4.genruntimeconfig.cache
+C:\Users\juanp\OneDrive\Escritorio\PracticasSemi\teoria4\obj\Debug\net10.0\ref\teoria4.dll
