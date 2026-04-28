@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ConsolaUI/1.0.0": {
+        "dependencies": {
+          "Administrativo": "1.0.0",
+          "Empleado": "1.0.0",
+          "Vendedores": "1.0.0"
+        },
+        "runtime": {
+          "ConsolaUI.dll": {}
+        }
+      },
+      "Administrativo/1.0.0": {
+        "dependencies": {
+          "Empleado": "1.0.0"
+        },
+        "runtime": {
+          "Administrativo.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Empleado/1.0.0": {
+        "runtime": {
+          "Empleado.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Vendedores/1.0.0": {
+        "dependencies": {
+          "Empleado": "1.0.0"
+        },
+        "runtime": {
+          "Vendedores.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolaUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Administrativo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empleado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vendedores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

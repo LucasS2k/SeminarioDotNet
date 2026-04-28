@@ -1,11 +1,68 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Administrativo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Empleado": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Administrativo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Administrativo.dll": {}
+        }
+      },
+      "Empleado/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Empleado.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Empleado.dll": {}
+        }
+      },
+      "Vendedores/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Empleado": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Vendedores.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vendedores.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Administrativo/1.0.0": {
+      "type": "project",
+      "path": "../Administrativos/Administrativo.csproj",
+      "msbuildProject": "../Administrativos/Administrativo.csproj"
+    },
+    "Empleado/1.0.0": {
+      "type": "project",
+      "path": "../Empleados/Empleado.csproj",
+      "msbuildProject": "../Empleados/Empleado.csproj"
+    },
+    "Vendedores/1.0.0": {
+      "type": "project",
+      "path": "../Vendedores/Vendedores.csproj",
+      "msbuildProject": "../Vendedores/Vendedores.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Administrativo >= 1.0.0",
+      "Empleado >= 1.0.0",
+      "Vendedores >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\juanp\\.nuget\\packages\\": {}
@@ -13,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juanp\\OneDrive\\Escritorio\\practicassemi\\Empleados\\ConsolaUI\\ConsolaUI.csproj",
+      "projectUniqueName": "C:\\Users\\juanp\\OneDrive\\Escritorio\\PracticasSemi\\Empleados\\ConsolaUI\\ConsolaUI.csproj",
       "projectName": "ConsolaUI",
-      "projectPath": "C:\\Users\\juanp\\OneDrive\\Escritorio\\practicassemi\\Empleados\\ConsolaUI\\ConsolaUI.csproj",
+      "projectPath": "C:\\Users\\juanp\\OneDrive\\Escritorio\\PracticasSemi\\Empleados\\ConsolaUI\\ConsolaUI.csproj",
       "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juanp\\OneDrive\\Escritorio\\practicassemi\\Empleados\\ConsolaUI\\obj\\",
+      "outputPath": "C:\\Users\\juanp\\OneDrive\\Escritorio\\PracticasSemi\\Empleados\\ConsolaUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -31,7 +88,17 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\juanp\\OneDrive\\Escritorio\\PracticasSemi\\Empleados\\Administrativos\\Administrativo.csproj": {
+              "projectPath": "C:\\Users\\juanp\\OneDrive\\Escritorio\\PracticasSemi\\Empleados\\Administrativos\\Administrativo.csproj"
+            },
+            "C:\\Users\\juanp\\OneDrive\\Escritorio\\PracticasSemi\\Empleados\\Empleados\\Empleado.csproj": {
+              "projectPath": "C:\\Users\\juanp\\OneDrive\\Escritorio\\PracticasSemi\\Empleados\\Empleados\\Empleado.csproj"
+            },
+            "C:\\Users\\juanp\\OneDrive\\Escritorio\\PracticasSemi\\Empleados\\Vendedores\\Vendedores.csproj": {
+              "projectPath": "C:\\Users\\juanp\\OneDrive\\Escritorio\\PracticasSemi\\Empleados\\Vendedores\\Vendedores.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
